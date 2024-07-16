@@ -1,5 +1,8 @@
 from tabulate import tabulate
 
+
+#test changement de la fonction 
+
 class Personnage:
     def __init__(self, nom, classe, niveau, points_de_vie, force, intelligence, arme=None):
         self.nom = nom
