@@ -7,5 +7,3 @@ Projet réalisé avec
 - Python
 - Tabulate
 
-
-totototo
