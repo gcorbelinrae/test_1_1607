@@ -48,4 +48,4 @@ class Personnage:
         if self.points_de_vie <= 0:
             self.en_vie = False
             print(f"{self.nom} est mort.")
-        #commentaires très stupide
+        #test du commentaire tres stupide pr voir un changement
